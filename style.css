@@ -32,6 +32,29 @@ h1{
     text-align: center ;
     padding: 10px 20px 30px 40px;
 }
-.image-resize{
-image-rendering: ;
+
+
+#color-back{
+    background-color: black ;
+    background-position: top 800px;
+    background-position: right 150px;
+    background-position: left 50px;
+    background-position: bottom 950px;
+   
+   
+
+    
+   
+}
+#gray{
+    color: gray;
+}
+#footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+#footer h1 span{
+color: chocolate;   
 }
