@@ -23,3 +23,7 @@ h1{
 .chocolate{
     color: chocolate;
 }
+.first-banner{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
