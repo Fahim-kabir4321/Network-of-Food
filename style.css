@@ -26,4 +26,12 @@ h1{
 .first-banner{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
+
+}
+.aligning{
+    text-align: center ;
+    padding: 10px 20px 30px 40px;
+}
+.image-resize{
+image-rendering: ;
 }
